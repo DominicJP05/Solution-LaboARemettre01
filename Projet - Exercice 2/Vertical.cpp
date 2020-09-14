@@ -16,7 +16,7 @@ int main()
 	int nombre1;
 	// Demander à l'utilisateur d'entrer un nombre à 5 chiffres
 	
-	cout << "Veuillez rentré un nombre à 5 chiffres: "
+	cout << "Veuillez rentré un nombre à 5 chiffres: ";
 	// Sauvegarde la valeur de la variable.
 	cin >> nombre1;
 	
